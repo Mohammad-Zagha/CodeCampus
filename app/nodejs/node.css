@@ -1,0 +1,20 @@
+.item{
+    position: absolute;
+    top: 0;
+    left:0;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+    height: 80px;
+    cursor: pointer;
+}
+.item p{
+    font-size: 32px;
+    font-weight: 500;
+    width: 100%;
+    color: #fff;
+    text-transform: uppercase;
+}
+.item p span{
+    padding: 0 20px;
+    font-size: 16px;
+}
